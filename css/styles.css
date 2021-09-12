@@ -1,0 +1,44 @@
+body {
+  background-color: #E3FDFD;
+}
+table.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  text-align: center;
+  color: #71C9CE;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  color: #71C9CE;
+}
+p{
+  text-align: center;
+  color: #71C9CE;
+}
+
+hr {
+  border-color: #A6E3E9;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 25%;
+}
+div{
+  text-align: center;
+}
+ul{
+  display: inline-block;
+  text-align: left;
+}
+img{
+  width: 50%;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
